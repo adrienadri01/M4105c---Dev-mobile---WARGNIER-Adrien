@@ -1,23 +1,21 @@
 #premierp{
-  display : block;
   background-color: #6a89cc;
-  margin-left: 650px;
-  margin-right: 650px;
-  margin-top: 25px;
 }
 
 #deuxiemep{
-  display : block;
   background-color: #b8e994;
-  margin-left: 650px;
-  margin-right: 650px;
-  margin-top: 35px;
 }
 
 #troisiemep{
-  display : block;
   background-color: #b71540;
-  margin-left: 650px;
-  margin-right: 650px;
-  margin-top: 40px;
+}
+
+#image_calais{
+  width : 250px;
+  height : 250px;
+}
+
+#paragraphes{
+  background-position: center;
+  text-align: center;
 }
