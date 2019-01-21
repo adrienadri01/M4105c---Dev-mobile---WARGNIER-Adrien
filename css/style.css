@@ -1,5 +1,6 @@
 body{
   background-color: #e55039;
+  text-align: center;
 }
 
 form{
@@ -42,8 +43,13 @@ input{
   text-align: center;
 }
 
-#form{
+#separation{
   text-align: center;
+  display: block;
+  margin-top: 15px;
+  border-top : solid;
+  color : GREY;
+
 }
 
 .envoyer{
