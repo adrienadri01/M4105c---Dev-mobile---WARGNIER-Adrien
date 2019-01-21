@@ -1,3 +1,25 @@
+body{
+  background-color: #e55039;
+}
+
+form{
+  display : block;
+  margin : auto;
+  width : 300px;
+  padding-top: 10px;
+  padding-left: 3px;
+  border-radius: 10px;
+  border: solid;
+  font-size : 15px;
+  background-color: #fa983a;
+}
+
+input{
+  display: block;
+  margin-bottom: 10px;
+  width : 280px;
+}
+
 #premierp{
   background-color: #6a89cc;
 }
@@ -24,24 +46,8 @@
   text-align: center;
 }
 
-
-input{
-  display: block;
-  margin-bottom: 10px;
-}
-
-form{
-  display : block;
-  margin : auto;
-  width : 300px;
-  padding-top: 10px;
-  padding-left: 3px;
-  border-radius: 10px;
-  border: solid;
-  font-size : 15px;
-}
-
 .envoyer{
   margin: auto;
   margin-bottom: 5px;
+  width : 100px;
 }
