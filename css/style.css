@@ -19,3 +19,29 @@
   background-position: center;
   text-align: center;
 }
+
+#form{
+  text-align: center;
+}
+
+
+input{
+  display: block;
+  margin-bottom: 10px;
+}
+
+form{
+  display : block;
+  margin : auto;
+  width : 300px;
+  padding-top: 10px;
+  padding-left: 3px;
+  border-radius: 10px;
+  border: solid;
+  font-size : 15px;
+}
+
+.envoyer{
+  margin: auto;
+  margin-bottom: 5px;
+}
